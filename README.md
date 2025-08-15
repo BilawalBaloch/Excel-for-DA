@@ -270,3 +270,8 @@ Ctrl + Shift + ;: Insert current time.
 
 Contributing
 Feel free to contribute to this cheat sheet by suggesting new tips, tricks, or corrections. Just open an issue or submit a pull request!
+.
+.
+.
+.
+>follow me on Linkedin @BILAWAL BASHIR
