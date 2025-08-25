@@ -16,7 +16,7 @@ This repository provides a quick reference for essential Excel data analysis tec
 Clean data is the foundation of accurate analysis.
 
 1. Remove Duplicates
-Easily eliminate redundant rows from your dataset.
+Easily eliminate redundant rows from your datasets .
 
 How to: Select your data range > Data Tab > Data Tools Group > Remove Duplicates.
 
